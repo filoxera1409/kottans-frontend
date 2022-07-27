@@ -2,8 +2,14 @@
 0. Git Basics
 
 Курс нв Coursera:
-- [x] Тиждень 1
-![image](https://user-images.githubusercontent.com/97355715/181355064-f51a92d8-1994-4400-b074-0550a25b2531.png)
+- [x] Тиждень 1:
+![image](https://user-images.githubusercontent.com/97355715/181357146-f7d4502d-8406-4ed5-aeae-2e273224e230.png)
 
-- [ ] Тиждень 2
+- [ ] Тиждень 2:
 
+learngitbranching.js.org:
+- [x] Основи:
+![image](https://user-images.githubusercontent.com/97355715/181358066-c7dd0e64-88a7-4dd3-8eb2-ca3efb483f71.png)
+
+
+- [ ] 
