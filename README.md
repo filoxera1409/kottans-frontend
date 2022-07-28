@@ -34,6 +34,6 @@
 - [ ] [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
 - [ ] [TypingClub — покращити швидкість набору на клавіатурі](https://www.typingclub.com/) WIP - 308/685 Typing Jungle ^_^
 - [x] [How to Learn and Cope with Negative Thoughts](https://guides.hexlet.io/learning/) - дуже корисний мотиваційний ресурс, щоб не впадати в зневіру)
-- [ ] 
+
 ## GENERAL SUMMARY:
 Я очікувала, що буде легше) Багато матеріалів. Курс на Курсері потребує часу, але вартий того. Проходити англійською не найлегший квест, проте можливо. Чи вдалось розібратись з роботою Гіта і почуватись у ньому впевненіше? 100%. Урок - не варто недооцінювати скільки часу займе проходження)
