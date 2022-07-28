@@ -25,15 +25,15 @@
 ## 6. Надіслати pull-request
 Ось: https://github.com/kottans/mock-repo/pull/767
 ## 7. Вивчити додаткові матеріали
-- [ ] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5);
-- [ ] [Git за 30 хвилин](https://codeguida.com/post/453)
-Git tips — закріпити свої знання про Git
-About Merge Conflicts
-Resoilving a Merge Conflict
-Communicating using Markdown
-Learn anything front-end
-TypingClub — покращити швидкість набору на клавіатурі
-How to Learn and Cope with Negative Thoughts
-
+- [ ] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
+- [x] [Git за 30 хвилин](https://codeguida.com/post/453)
+- [x] [Git tips — закріпити свої знання про Git](https://www.webfx.com/blog/web-design/git-tips/)
+- [x] [About Merge Conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
+- [x] [Resoilving a Merge Conflict](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
+- [ ] [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
+- [ ] [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
+- [ ] [TypingClub — покращити швидкість набору на клавіатурі](https://www.typingclub.com/) WIP - 308/685 Typing Jungle ^_^
+- [x] [How to Learn and Cope with Negative Thoughts](https://guides.hexlet.io/learning/) - дуже корисний мотиваційний ресурс, щоб не впадати в зневіру)
+- [ ] 
 ## GENERAL SUMMARY:
 Я очікувала, що буде легше) Багато матеріалів. Курс на Курсері потребує часу, але вартий того. Проходити англійською не найлегший квест, проте можливо. Чи вдалось розібратись з роботою Гіта і почуватись у ньому впевненіше? 100%. Урок - не варто недооцінювати скільки часу займе проходження)
