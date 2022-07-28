@@ -5,7 +5,9 @@
 - [x] Тиждень 1:
 ![image](https://user-images.githubusercontent.com/97355715/181358513-e6c999dc-d1f3-4826-a489-370655e94c4a.png)
 
-- [ ] Тиждень 2:
+- [x] Тиждень 2:
+![image](https://user-images.githubusercontent.com/97355715/181474909-be7e3790-43f0-4e32-914d-631b3d5816e3.png)
+
 ### SUMMARY:
 Доволі важкий початок) ледве пробралась крізь ці непроглядні хащі перших занять першого тижня (Лінукс). Але далі все було набагато легше (коли пішов просто Гіт). Тому, найважливіший урок - не дизморалитись на початку :)
 
@@ -23,5 +25,15 @@
 ## 6. Надіслати pull-request
 Ось: https://github.com/kottans/mock-repo/pull/767
 ## 7. Вивчити додаткові матеріали
+Лекція по Git від Олексія Руденка https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5
+Git за 30 хвилин
+Git tips — закріпити свої знання про Git
+About Merge Conflicts
+Resoilving a Merge Conflict
+Communicating using Markdown
+Learn anything front-end
+TypingClub — покращити швидкість набору на клавіатурі
+How to Learn and Cope with Negative Thoughts
 
 ## GENERAL SUMMARY:
+Я очікувала, що буде легше) Багато матеріалів. Курс на Курсері потребує часу, але вартий того. Проходити англійською не найлегший квест, проте можливо. Чи вдалось розібратись з роботою Гіта і почуватись у ньому впевненіше? 100%. Урок - не варто недооцінювати скільки часу займе проходження)
