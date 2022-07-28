@@ -42,7 +42,8 @@
 ## 1. Linux Survival (4 modules)
 - [x] 1 Quiz:
 ![image](https://user-images.githubusercontent.com/97355715/181487413-849cf1cb-98d6-480e-8338-85d5833a9437.png)
-- [ ] 2 Quiz:
+- [x] 2 Quiz:
+- [ ] ![image](https://user-images.githubusercontent.com/97355715/181627516-4e9f9e90-818b-40d4-af91-677a8d5fcfa3.png)
 - [ ] 3 Quiz:
 - [ ] 4 Quiz:
 ## 2.
