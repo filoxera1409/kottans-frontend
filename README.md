@@ -40,8 +40,9 @@
 
 # Linux, Command Line, HTTP Tools
 ## 1. Linux Survival (4 modules) 28-29.07
+- [x] 1 Quiz:
 <details>
-  <summary>- [x] 1 Quiz:</summary>
+  <summary></summary>
   <img src = "https://user-images.githubusercontent.com/97355715/181487413-849cf1cb-98d6-480e-8338-85d5833a9437.png">
 </details>
 
