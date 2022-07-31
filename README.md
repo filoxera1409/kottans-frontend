@@ -74,6 +74,7 @@
 
 # 2.VCS (hello gitty), GitHub and Collaboration
 ## ## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
+
 - [ ]Тиждень 3:
 <details>
   <summary>Week3/summary>
