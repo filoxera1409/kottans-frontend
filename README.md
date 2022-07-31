@@ -89,11 +89,11 @@
   ## [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
   
 - [ ] Основи: Їдемо далі, Переміщуємо роботу туди-сюди:
-  
 <details>
   <summary>Basics</summary>
   <img src = "">
 </details>
+
 - [ ] Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes:
 <details>
   <summary>Git advanced</summary>
