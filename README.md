@@ -1,7 +1,7 @@
 # kottans-frontend
 # 0. Git Basics
 
-## 1. Курс нa Coursera:
+## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
 - [x] Тиждень 1:
 <details>
   <summary>Week1</summary>
@@ -17,7 +17,7 @@
 ### SUMMARY:
 Доволі важкий початок) ледве пробралась крізь ці непроглядні хащі перших занять першого тижня (Лінукс). Але далі все було набагато легше (коли пішов просто Гіт). Тому, найважливіший урок - не дизморалитись на початку :)
 
-## 2. learngitbranching.js.org:
+## [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
 - [x] Основи:
 <details>
   <summary>Basics</summary>
@@ -33,11 +33,9 @@
 ### SUMMARY:
 Цікава гра) довелось трішки помучитись, але було дуже корисно відшліфувати навички на практиці.
 
-## 3-4.Створити репозиторій - READMY.md
-Ну, якби факт того, що я пишу тут і є доказом того, що ці кроки пройдені :)
-## 6. Надіслати pull-request
+## Надіслати pull-request
 Ось: https://github.com/kottans/mock-repo/pull/767
-## 7. Вивчити додаткові матеріали
+## Вивчити додаткові матеріали
 - [ ] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
 - [x] [Git за 30 хвилин](https://codeguida.com/post/453)
 - [x] [Git tips — закріпити свої знання про Git](https://www.webfx.com/blog/web-design/git-tips/)
@@ -52,7 +50,7 @@
 Я очікувала, що буде легше) Багато матеріалів. Курс на Курсері потребує часу, але вартий того. Проходити англійською не найлегший квест, проте можливо. Чи вдалось розібратись з роботою Гіта і почуватись у ньому впевненіше? 100%. Урок - не варто недооцінювати скільки часу займе проходження)
 
 # Linux, Command Line, HTTP Tools
-## 1. Linux Survival (4 modules) 28-29.07
+## [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/):
 <details>
   <summary>4 Quizes:</summary>
   <img src = "https://user-images.githubusercontent.com/97355715/181487413-849cf1cb-98d6-480e-8338-85d5833a9437.png">
@@ -63,5 +61,6 @@
 
 ### SUMMARY:
 Перше знайомство з Linux. Чимало знайомого чи подібного завдяки використанню cmd. Записування у блокнот дуже допомогає, бо багато інфи. Була здивовано опціям надання/позбавлення доступу в Лінуксі, як і розподілам на 3 категорії: user, group, other. Назви деяких команд трішки конфузять: man, finger, kill -9) В той час, як інші дуже логічні скорочення, що сприяє їх запам'ятовуванню.
-## 2.
-## 3.
+## 2. [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+
+## 3.[HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
