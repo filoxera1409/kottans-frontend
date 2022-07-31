@@ -74,12 +74,12 @@
 
 # 2.VCS (hello gitty), GitHub and Collaboration
 ## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
-- [x] Тиждень 3:
+- [ ] Тиждень 3:
 <details>
   <summary>Week3</summary>
   <img src = "">
 </details>
-- [x] Тиждень 4:
+- [ ] Тиждень 4:
 <details>
   <summary>Week4</summary>
   <img src = "">
@@ -94,7 +94,6 @@
   <img src = "">
 </details>
 - [ ] Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes:
-  
 <details>
   <summary>Git advanced </    summary>
   <img src = "">
