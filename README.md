@@ -80,23 +80,24 @@
   <img src = "">
 </details>
 
-- []Тиждень 4:
+- [ ]Тиждень 4:
 <details>
   <summary>Week4</summary>
   <img src = "">
 </details>
+  
   ## [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
-- [] Основи: Їдемо далі, Переміщуємо роботу туди-сюди:
+- [ ] Основи: Їдемо далі, Переміщуємо роботу туди-сюди:
 <details>
   <summary>Basics</summary>
   <img src = "">
 </details>
-
 - [] Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes:
 <details>
   <summary>Git advanced </    summary>
   <img src = "">
 </details>
+  
   ## Вивчити додаткові матеріали
 - [ ] [An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
 - [ ] [Oh shit, git!](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
