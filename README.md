@@ -73,18 +73,14 @@
 - [ ] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256) - оце на часі, але поки нема часу)
 
 # 2.VCS (hello gitty), GitHub and Collaboration
-## ## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
-
+## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
 - [x]Тиждень 3:
-
 <details>
   <summary>Week3</summary>
   <img src = "">
 </details>
-
 - [x]Тиждень 4:
 <details>
-  
   <summary>Week4</summary>
   <img src = "">
 </details>
