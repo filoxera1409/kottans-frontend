@@ -79,6 +79,7 @@
   <summary>Week3</summary>
   <img src = "">
 </details>
+
 - [ ] Тиждень 4:
 <details>
   <summary>Week4</summary>
