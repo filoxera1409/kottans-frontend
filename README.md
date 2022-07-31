@@ -61,6 +61,14 @@
 
 ### SUMMARY:
 Перше знайомство з Linux. Чимало знайомого чи подібного завдяки використанню cmd. Записування у блокнот дуже допомогає, бо багато інфи. Була здивовано опціям надання/позбавлення доступу в Лінуксі, як і розподілам на 3 категорії: user, group, other. Назви деяких команд трішки конфузять: man, finger, kill -9) В той час, як інші дуже логічні скорочення, що сприяє їх запам'ятовуванню.
-## 2. [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+## [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+Був досвід використання Fiddler. Нарешті приблизно зрозуміла що це і для чого. Розуміння що таке HTTP раніше не було. Не скажу, що стаття дуже легка для сприйняття та розуміння, але розуміння точно з'явилось. Усміхнулась від того, що фіча протоколу HTTP 1.1 chunked transfer-coding - нагадує Half-life: замість того, щоб грузити всю карту, карта розділена на невеличкі шматочки, і коли гравець підходить до закінчення шматочка - підгружається інший)) це, звісно, трішки інше, бо там суть в розбивці на шматочки, без вказування пам'яті, які займає шматочок, а воно просто ділиться і підгружається доти, допоки останній шматочок не буде 0 розміру)
+## [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+Було непросто. Сподобалась частина про детальне пояснення роботи HTTPS протоколу і кеш. Відчуваю потребу повернутись до цієї інфи через деякий час, бо щось є сумніви чи я все допетрала...
+## Additional
+- [x] [How I taught myself to code in eight weeks](https://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189) - прочитала, але не скористалась порадами і курсами((
+- [ ] [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7) - tltr, трішки пізніше)
+- [ ] [Command Line Power User](https://commandlinepoweruser.com/) - пізніше
+- [ ] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299) - Лінукс поки не на часі(
+- [ ] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256) - оце на часі, але поки нема часу)
 
-## 3.[HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
