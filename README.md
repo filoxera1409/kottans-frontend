@@ -49,7 +49,7 @@
 ## GENERAL SUMMARY:
 Я очікувала, що буде легше) Багато матеріалів. Курс на Курсері потребує часу, але вартий того. Проходити англійською не найлегший квест, проте можливо. Чи вдалось розібратись з роботою Гіта і почуватись у ньому впевненіше? 100%. Урок - не варто недооцінювати скільки часу займе проходження)
 
-# Linux, Command Line, HTTP Tools
+# 1. Linux, Command Line, HTTP Tools
 ## [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/):
 <details>
   <summary>4 Quizes:</summary>
@@ -72,3 +72,33 @@
 - [ ] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299) - Лінукс поки не на часі(
 - [ ] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256) - оце на часі, але поки нема часу)
 
+# 2.VCS (hello gitty), GitHub and Collaboration
+## ## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
+- [ ]Тиждень 3:
+<details>
+  <summary>Week3/summary>
+  <img src = "">
+</details>
+
+- []Тиждень 4:
+<details>
+  <summary>Week4</summary>
+  <img src = "">
+</details>
+  ## [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
+- [] Основи: Їдемо далі, Переміщуємо роботу туди-сюди:
+<details>
+  <summary>Basics</summary>
+  <img src = "">
+</details>
+
+- [] Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes:
+<details>
+  <summary>Git advanced </    summary>
+  <img src = "">
+</details>
+  ## Вивчити додаткові матеріали
+- [ ] [An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
+- [ ] [Oh shit, git!](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
+- [ ] [Flight rules for git]([https://ohshitgit.com/](https://github.com/k88hudson/git-flight-rules))
+- [ ] [GitHub Learning Lab](https://lab.github.com/)
