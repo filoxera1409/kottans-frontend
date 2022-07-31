@@ -95,7 +95,7 @@
 </details>
 - [ ] Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes:
 <details>
-  <summary>Git advanced </    summary>
+  <summary>Git advanced</summary>
   <img src = "">
 </details>
   
