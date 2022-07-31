@@ -74,12 +74,12 @@
 
 # 2.VCS (hello gitty), GitHub and Collaboration
 ## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
-- [x]Тиждень 3:
+- [x] Тиждень 3:
 <details>
   <summary>Week3</summary>
   <img src = "">
 </details>
-- [x]Тиждень 4:
+- [x] Тиждень 4:
 <details>
   <summary>Week4</summary>
   <img src = "">
@@ -103,5 +103,5 @@
   ## Вивчити додаткові матеріали
 - [ ] [An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
 - [ ] [Oh shit, git!](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
-- [ ] [Flight rules for git](https://ohshitgit.com/](https://github.com/k88hudson/git-flight-rules)
+- [ ] [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 - [ ] [GitHub Learning Lab](https://lab.github.com/)
