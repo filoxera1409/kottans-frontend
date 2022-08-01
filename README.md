@@ -88,7 +88,7 @@
   
   ## [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
   
-- [ ] Основи: Їдемо далі, Переміщуємо роботу туди-сюди:
+- [x] Основи: Їдемо далі, Переміщуємо роботу туди-сюди:
 <details>
   <summary>Basics</summary>
   <img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-01%20205831.jpg">
