@@ -91,7 +91,7 @@
 - [ ] Основи: Їдемо далі, Переміщуємо роботу туди-сюди:
 <details>
   <summary>Basics</summary>
-  <img src = "kottans-frontend/task_git_collaboration/Screenshot 2022-08-01 205831.jpg">
+  <img src = "./kottans-frontend/task_git_collaboration/Screenshot 2022-08-01 205831.jpg">
 </details>
 
 - [ ] Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes:
