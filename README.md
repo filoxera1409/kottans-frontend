@@ -74,10 +74,10 @@
 
 # 2.VCS (hello gitty), GitHub and Collaboration
 ## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
-- [ ] Тиждень 3:
+- [x] Тиждень 3:
 <details>
   <summary>Week3</summary>
-  <img src = "">
+  <img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-02%20185357.jpg">
 </details>
 
 - [ ] Тиждень 4:
