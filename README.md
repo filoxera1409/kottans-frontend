@@ -94,10 +94,10 @@
   <img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-01%20205831.jpg">
 </details>
 
-- [ ] Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes:
+- [x] Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes:
 <details>
   <summary>Git advanced</summary>
-  <img src = "">
+  <img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-02%20205828.jpg">
 </details>
   
   ## Вивчити додаткові матеріали
