@@ -80,10 +80,10 @@
   <img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-02%20185357.jpg">
 </details>
 
-- [ ] Тиждень 4:
+- [x] Тиждень 4:
 <details>
   <summary>Week4</summary>
-  <img src = "">
+  <img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-02%20203317.jpg">
 </details>
   
   ## [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
