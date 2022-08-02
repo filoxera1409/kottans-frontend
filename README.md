@@ -105,3 +105,6 @@
 - [ ] [Oh shit, git!](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
 - [ ] [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 - [ ] [GitHub Learning Lab](https://lab.github.com/)
+
+### SUMMARY:
+Взагалі, все,що дізналась, було новим для мене. Основний урок за цей курс - спочатку потрібно проходити теоретичний матеріал, а потім практикуватись, так буде простіше :) Дуже сподобалось гратись з "learngitbranching.js.org" - все чітко пояснюється, і з цими кульками прекрасно вдається візуалізвуати, що відбувається при виконанні різних команд.
