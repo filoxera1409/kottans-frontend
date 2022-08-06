@@ -112,8 +112,8 @@
   <li>class/pseudo-class/attibute</li>
   <li>number of elements</li>
 </ol> 
-</details> 
 Сподобались пояснення щодо box model і позиціонування елементів - нарешті вдалось скласти картинку. Вперше почула про властивість clear і її значення: left, right, both; Загалом - хороший курс, в якому систематично все пояснюється.
+</details>
 
 # 4. Responsive Web Design
 <details><summary>More info...</summary>
