@@ -66,7 +66,7 @@
 - [x] Основи: Їдемо далі, Переміщуємо роботу туди-сюди:<details><summary>Basics</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-01%20205831.jpg"></details>
 - [x] Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes:<details><summary>Git advanced</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-02%20205828.jpg"></details>
   
-## Вивчити додаткові матеріали
+## Додаткогві матеріали:
 - [ ] [An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
 - [ ] [Oh shit, git!](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
 - [ ] [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
@@ -83,8 +83,19 @@
 - [x] [HTML&CSS: Week1](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/1)<details><summary>Week 1</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20141753.jpg"></details>
 - [ ] [HTML&CSS: Week2](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/1)
 - [x] [HTML: Codecademy](https://www.codecademy.com/learn/learn-html)<details><summary>HTML: Codecademy</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20143419.jpg"></details>
-- [ ] [CSS: Codecademy](https://www.codecademy.com/learn/learn-css)
+- [ ] [CSS: Codecademy](https://www.codecademy.com/learn/learn-css
   
+ ## Додаткогві матеріали:
+  - [ ] [YouTube HTML/CSS](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=5)
+  - [ ] [freecodecamp.org](https://www.freecodecamp.org/learn/responsive-web-design/) - частково пройдений курс Legacy Responsive Web Design (2/7)
+  - [ ] [GitHub course about HTML](https://lab.github.com/githubtraining/introduction-to-html)
+  - [x] [cantunsee](https://cantunsee.space/) - дуже кльова гра на гостроту зору та вміння підмічати; пройшла з задоволенням
+  - [ ] [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
+ 
+ ### SUMMARY:
+  HTML
+  З HTML знайома давно. Була дуже рада відкрити для себе нові деталі та ніштяки. Дуже сподобався практичний курс на Codecademy. По-перше, ніколи не зіштовхувалась з таблицями, тегами та структурою побудови.По-друге, дуже цікавою та новою виявилась частина про Form Validation та встановлення мінімального та максимального значень, встановлення мінімальної та максимальної довжини тексу, який вводитимуть та перевірку на введення відповідних символів. Неодноразово зустрічалась з ними на практиці, але не думала, що ці всі параметри так легко задаються як атрибути до тегу форми. о-третє, відкрила для себе теги <aside>, <figure>, <embed>. Загалом, корисно було почути на 2 курсах (курсера і codecademy) про необхідність використання тегів для структурування сторінки: <header>, <nav>, <section>, <main>, <article>, <figure>, <footer>, etc. Це не дуже очевидно, оскільки не обов'язково для використання, а тому кожен верстає як хоче. Ці ресурси переконали мене остаточно, що краще їх таки використовувати всюди. 
+  З курсу на Курсері дізналась кілька цікавих моментів. По-перше, веб-валідатор [W3](https://validator.w3.org/#validate_by_input). По-друге, вдалось поглибити теоретичні знання та дізнатись детальніше про doctype declaration. По-третє, абсолютно новою була інфа про &lt; &gt; &amp; &nbsp; &quot; використання.
   </details>
   
 # 4. Responsive Web Design
