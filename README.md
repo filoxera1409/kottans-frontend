@@ -78,6 +78,8 @@
   </details>
   
 # 2.VCS (hello gitty), GitHub and Collaboration
+
+<details><summary>More info...</summary>
 ## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
 - [x] Тиждень 3:
 <details>
@@ -114,9 +116,11 @@
 ### SUMMARY:
 Взагалі, все,що дізналась, було новим для мене. Основний урок за цей курс - спочатку потрібно проходити теоретичний матеріал, а потім практикуватись, так буде простіше :) Дуже сподобалось гратись з "learngitbranching.js.org" - все чітко пояснюється, і з цими кульками прекрасно вдається візуалізвуати, що відбувається при виконанні різних команд. Курс на Курсері дуже інформативний, але доволі абстрактний. Перші 2 тижні я пройшла з доступод до "лабораторних робіт" і було простіше, бо хоч якась наочність, тижні 3-4 - просто якась теоретична інфа про команди. Не зважаючи на "практичну" частину у вигляді гри з кульками "learngitbranching.js.org" - все одно не вистачало практики для розуміння цих всіх команд. З розрахунку, дізнатись, які є команди і приблизного розуміння, що це і до чого - гуд, а от чи вдалось мені щось більше - хз. Мб, варто повернутись пізніше чи коли буде актуально. Принаймні рівень базового розуміння точно є)
 Чесно кажучи, сил на освоєння додаткових матеріалів взагалі не було(
-
+</details>
 ## Intro to HTML and CSS
 
+<details><summary>More info...</summary>
+  
 - [x] [HTML&CSS: Week1](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/1)
 <details>
 <summary></summary>
@@ -129,3 +133,5 @@
   <img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20141753.jpg">
 </details>
 - [ ] [CSS: Codecademy](https://www.codecademy.com/learn/learn-css)
+  
+  </details>
