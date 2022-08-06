@@ -7,6 +7,7 @@
   <summary></summary>
   <img src = "https://user-images.githubusercontent.com/97355715/181358513-e6c999dc-d1f3-4826-a489-370655e94c4a.png">
 </details>
+
 - [x] Тиждень 2:
 <details>
   <summary</summary>
