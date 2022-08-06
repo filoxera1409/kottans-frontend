@@ -3,16 +3,10 @@
 <details><summary>More info...</summary>
   
 ## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
-- [x] Тиждень 1:
-<details>
-  
-  <img src = "https://user-images.githubusercontent.com/97355715/181358513-e6c999dc-d1f3-4826-a489-370655e94c4a.png">
-</details>
+- [x] Тиждень 1:<details><img src = "https://user-images.githubusercontent.com/97355715/181358513-e6c999dc-d1f3-4826-a489-370655e94c4a.png"></details>
 
 - [x] Тиждень 2:
-<details>
-  <img src = "https://user-images.githubusercontent.com/97355715/181475811-33273c07-2968-4866-9be0-632999f039af.png">
-</details>
+<details><img src = "https://user-images.githubusercontent.com/97355715/181475811-33273c07-2968-4866-9be0-632999f039af.png"></details>
 
 ### SUMMARY:
 Доволі важкий початок) ледве пробралась крізь ці непроглядні хащі перших занять першого тижня (Лінукс). Але далі все було набагато легше (коли пішов просто Гіт). Тому, найважливіший урок - не дизморалитись на початку :)
