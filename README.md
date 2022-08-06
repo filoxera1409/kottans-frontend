@@ -106,12 +106,13 @@
     <li>Inheritance - принцип успадкування. Завдяки йому, всі елементи body отримують однакове значення, застосоване власне до body;</li>
     <li>Specificity - most specific selector combination wins.</li>
   </ul>
-  Order: 
-  
-### style="..." 
-#### id
-##### class/pseudo-class/attibute
-###### number of elements
+  Order:
+ <ol>
+  <li>style="..."</li>
+  <li>id</li>
+  <li>class/pseudo-class/attibute</li>
+  <li>number of elements</li>
+</ol> 
 </details> 
 
 # 4. Responsive Web Design
