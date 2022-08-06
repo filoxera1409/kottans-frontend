@@ -2,9 +2,9 @@
 # 0. Git Basics
 
 ## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
-- [x] Тиждень 1:
+
 <details>
-  <summary></summary>
+  <summary>- [x] Тиждень 1:</summary>
   <img src = "https://user-images.githubusercontent.com/97355715/181358513-e6c999dc-d1f3-4826-a489-370655e94c4a.png">
 </details>
 
