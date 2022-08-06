@@ -81,7 +81,7 @@
 <details><summary>More info...</summary>
   
 - [x] [HTML&CSS: Week1](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/1)<details><summary>Week 1</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20141753.jpg"></details>
-- [ ] [HTML&CSS: Week2](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/1)
+- [x] [HTML&CSS: Week2](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/1)<details><summary>Week 2</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20180525.jpg"></details>
 - [x] [HTML: Codecademy](https://www.codecademy.com/learn/learn-html)<details><summary>HTML: Codecademy</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20143419.jpg"></details>
 - [ ] [CSS: Codecademy](https://www.codecademy.com/learn/learn-css)
   
@@ -96,7 +96,21 @@
   #### HTML
   З HTML знайома. Дуже сподобався практичний курс на Codecademy. По-перше, ніколи не зіштовхувалась з таблицями, тегами та структурою побудови.По-друге, дуже цікавою та новою виявилась частина про Form Validation та встановлення мінімального та максимального значень, встановлення мінімальної та максимальної довжини тексу, який вводитимуть та перевірку на введення відповідних символів. Неодноразово зустрічалась з ними на практиці, але не думала, що ці всі параметри так легко задаються як атрибути до тегу форми. По-третє, відкрила для себе теги &lt;aside&gt;, &lt;figure&gt;, &lt;embed&gt;.
   Загалом, корисно було почути на 2 курсах (курсера і codecademy) про необхідність використання тегів для структурування сторінки: &lt;header&gt;, &lt;nav&gt;, &lt;section&gt;, &lt;main&gt;, &lt;article&gt;, &lt;figure&gt;, &lt;footer&gt;, etc. Це не дуже очевидно, оскільки не обов'язково для використання, а тому кожен верстає як хоче. Ці ресурси переконали мене остаточно, що краще їх таки використовувати всюди. 
-  З курсу на Курсері дізналась кілька цікавих моментів. По-перше, веб-валідатор [W3](https://validator.w3.org/#validate_by_input). По-друге, вдалось поглибити теоретичні знання та дізнатись детальніше про doctype declaration. Корисний сайт від спікера курсу на Курсері [ClearlyDecoded](https://clearlydecoded.com/)
+  З курсу на Курсері дізналась кілька цікавих моментів. По-перше, веб-валідатор [W3](https://validator.w3.org/#validate_by_input). По-друге, вдалось поглибити теоретичні знання та дізнатись детальніше про doctype declaration. Корисний сайт від спікера курсу на Курсері [ClearlyDecoded](https://clearlydecoded.com/).
+  
+  #### CSS
+  В курсі на Курсері було багато цікавої і нової для мене інформації. Цікаве і корисне посилання на [CSS Zen Garden](csszengarden.com) - прекрасна можливість побачити силу стилізації. Дуже цікавими були лекції про алгоритми роботи CSS:
+  <ul>
+    <li>Origin - last declaration wins;</li>
+    <li>Merge - declaration merges;</li>
+    <li>Inheritance - принцип успадкування. Завдяки йому, всі елементи body отримують однакове значення, застосоване власне до body;</li>
+    <li>Specificity - most specific selector combination wins.</li>
+  </ul>
+  Order: 
+##### style="..." 
+###### id
+####### class/pseudo-class/attibute
+######## number of elements
   </details>
   
 # 4. Responsive Web Design
