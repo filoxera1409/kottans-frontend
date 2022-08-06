@@ -83,7 +83,7 @@
 - [x] [HTML&CSS: Week1](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/1)<details><summary>Week 1</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20141753.jpg"></details>
 - [x] [HTML&CSS: Week2](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/1)<details><summary>Week 2</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20180525.jpg"></details>
 - [x] [HTML: Codecademy](https://www.codecademy.com/learn/learn-html)<details><summary>HTML: Codecademy</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20143419.jpg"></details>
-- [ ] [CSS: Codecademy](https://www.codecademy.com/learn/learn-css)
+- [x] [CSS: Codecademy](https://www.codecademy.com/learn/learn-css)<details><summary>CSS: Codecademy</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20210126.jpg"></details>
   
  ## Додаткогві матеріали:
   - [ ] [YouTube HTML/CSS](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=5)
