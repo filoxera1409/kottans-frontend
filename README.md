@@ -121,6 +121,7 @@
 # 3. Intro to HTML and CSS
 <details><summary>More info...</summary>
   
+  
 - [x] [HTML&CSS: Week1](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/1)
 <details>
 <summary></summary>
@@ -130,8 +131,8 @@
 - [ ] [HTML&CSS: Week2](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/1)
 - [x] [HTML: Codecademy](https://www.codecademy.com/learn/learn-html)
 <details>
-<summary></summary>
-  <img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20141753.jpg">
+<summary>HTML: Codecademy</summary>
+  <img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20143419.jpg">
 </details>
   
 - [ ] [CSS: Codecademy](https://www.codecademy.com/learn/learn-css)
