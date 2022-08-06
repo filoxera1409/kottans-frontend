@@ -51,6 +51,8 @@
 </details>
 
 # 1. Linux, Command Line, HTTP Tools
+<details><summary>More info...</summary>
+  
 ## [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/):
 <details>
   <summary>4 Quizes:</summary>
@@ -73,6 +75,8 @@
 - [ ] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299) - Лінукс поки не на часі(
 - [ ] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256) - оце на часі, але поки нема часу)
 
+  </details>
+  
 # 2.VCS (hello gitty), GitHub and Collaboration
 ## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
 - [x] Тиждень 3:
