@@ -1,6 +1,6 @@
 # kottans-frontend
 # 0. Git Basics
-
+<details>
 ## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
 - [x] Тиждень 1:
 <details>
@@ -48,6 +48,7 @@
 
 ## GENERAL SUMMARY:
 Я очікувала, що буде легше) Багато матеріалів. Курс на Курсері потребує часу, але вартий того. Проходити англійською не найлегший квест, проте можливо. Чи вдалось розібратись з роботою Гіта і почуватись у ньому впевненіше? 100%. Урок - не варто недооцінювати скільки часу займе проходження)
+</details>
 
 # 1. Linux, Command Line, HTTP Tools
 ## [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/):
