@@ -83,10 +83,11 @@
 - [x] [HTML&CSS: Week1](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/1)<details><summary>Week 1</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20141753.jpg"></details>
 - [x] [HTML&CSS: Week2](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/1)<details><summary>Week 2</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20180525.jpg"></details>
 - [x] [HTML: Codecademy](https://www.codecademy.com/learn/learn-html)<details><summary>HTML: Codecademy</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20143419.jpg"></details>
-- [x] [CSS: Codecademy](https://www.codecademy.com/learn/learn-css)<details><summary>CSS: Codecademy</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20210126.jpg"></details>
+- [ ] [CSS: Codecademy](https://www.codecademy.com/learn/learn-css)
+  
  ## Додаткогві матеріали:
   - [ ] [YouTube HTML/CSS](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=5)
-  - [x] [freecodecamp.org](https://www.freecodecamp.org/learn/responsive-web-design/) - частково пройдений курс Legacy Responsive Web Design (2/7)
+  - [ ] [freecodecamp.org](https://www.freecodecamp.org/learn/responsive-web-design/) - частково пройдений курс Legacy Responsive Web Design (2/7)
   - [ ] [GitHub course about HTML](https://lab.github.com/githubtraining/introduction-to-html)
   - [x] [cantunsee](https://cantunsee.space/) - дуже кльова гра на гостроту зору та вміння підмічати; пройшла з задоволенням
   - [ ] [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
@@ -103,8 +104,7 @@
     <li>Origin - last declaration wins;</li>
     <li>Merge - declaration merges;</li>
     <li>Inheritance - принцип успадкування. Завдяки йому, всі елементи body отримують однакове значення, застосоване власне до body;</li>
-    <li>Specificity - most specific selector combination wins.</li>
-  </ul>
+    <li>Specificity - most specific selector combination wins.</li></ul>
   Order:
  <ol>
   <li>style="..."</li>
@@ -112,8 +112,8 @@
   <li>class/pseudo-class/attibute</li>
   <li>number of elements</li>
 </ol> 
-В курсі від Codecademy завдання гармонійно поєдались з теоретичним курсом на Курсері. Допомогли закріпити знання.
 </details> 
+Сподобались пояснення щодо box model і позиціонування елементів - нарешті вдалось скласти картинку. Вперше почула про властивість clear і її значення: left, right, both; Загалом - хороший курс, в якому систематично все пояснюється.
 
 # 4. Responsive Web Design
 <details><summary>More info...</summary>
