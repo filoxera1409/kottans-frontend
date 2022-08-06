@@ -3,24 +3,15 @@
 <details><summary>More info...</summary>
   
 ## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
-- [x] Тиждень 1:<details><img src = "https://user-images.githubusercontent.com/97355715/181358513-e6c999dc-d1f3-4826-a489-370655e94c4a.png"></details>
-- [x] Тиждень 2:<details><img src = "https://user-images.githubusercontent.com/97355715/181475811-33273c07-2968-4866-9be0-632999f039af.png"></details>
+- [x] Тиждень 1:<details><summary>Week 1</summary><img src = "https://user-images.githubusercontent.com/97355715/181358513-e6c999dc-d1f3-4826-a489-370655e94c4a.png"></details>
+- [x] Тиждень 2:<details><summary>Week 2</summary><img src = "https://user-images.githubusercontent.com/97355715/181475811-33273c07-2968-4866-9be0-632999f039af.png"></details>
 
 ### SUMMARY:
 Доволі важкий початок) ледве пробралась крізь ці непроглядні хащі перших занять першого тижня (Лінукс). Але далі все було набагато легше (коли пішов просто Гіт). Тому, найважливіший урок - не дизморалитись на початку :)
 
 ## [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
-- [x] Основи:
-<details>
-  <summary>Basics</summary>
-  <img src = "https://user-images.githubusercontent.com/97355715/181358066-c7dd0e64-88a7-4dd3-8eb2-ca3efb483f71.png">
-</details>
-
-- [x] Віддалені репозиторії: Push & Pull -- віддалені репозиторії в Git!:
-<details>
-  <summary>Push & Pull</summary>
-  <img src = "https://user-images.githubusercontent.com/97355715/181451001-5d1daed8-eef0-4782-bf12-1b0a1c91c631.png">
-</details>
+- [x] Основи:<details><summary>Basics</summary><img src = "https://user-images.githubusercontent.com/97355715/181358066-c7dd0e64-88a7-4dd3-8eb2-ca3efb483f71.png"></details>
+- [x] Віддалені репозиторії: Push & Pull -- віддалені репозиторії в Git!:<details><summary>Push & Pull</summary><img src = "https://user-images.githubusercontent.com/97355715/181451001-5d1daed8-eef0-4782-bf12-1b0a1c91c631.png"></details>
 
 ### SUMMARY:
 Цікава гра) довелось трішки помучитись, але було дуже корисно відшліфувати навички на практиці.
@@ -46,13 +37,7 @@
 <details><summary>More info...</summary>
   
 ## [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/):
-<details>
-  <summary>4 Quizes:</summary>
-  <img src = "https://user-images.githubusercontent.com/97355715/181487413-849cf1cb-98d6-480e-8338-85d5833a9437.png">
-  <img src = "https://user-images.githubusercontent.com/97355715/181627516-4e9f9e90-818b-40d4-af91-677a8d5fcfa3.png">
-  <img src = "https://user-images.githubusercontent.com/97355715/181744716-2daa92e4-4282-4c3b-8436-9d094b4dee97.png">
-  <img src = "https://user-images.githubusercontent.com/97355715/181748214-88268adb-5b2c-41a5-9cfd-2d04ab88b759.png">
-</details>
+<details><summary>4 Quizes:</summary><img src = "https://user-images.githubusercontent.com/97355715/181487413-849cf1cb-98d6-480e-8338-85d5833a9437.png"><img src = "https://user-images.githubusercontent.com/97355715/181627516-4e9f9e90-818b-40d4-af91-677a8d5fcfa3.png"><img src = "https://user-images.githubusercontent.com/97355715/181744716-2daa92e4-4282-4c3b-8436-9d094b4dee97.png"><img src = "https://user-images.githubusercontent.com/97355715/181748214-88268adb-5b2c-41a5-9cfd-2d04ab88b759.png"></details>
 
 ### SUMMARY:
 Перше знайомство з Linux. Чимало знайомого чи подібного завдяки використанню cmd. Записування у блокнот дуже допомогає, бо багато інфи. Була здивовано опціям надання/позбавлення доступу в Лінуксі, як і розподілам на 3 категорії: user, group, other. Назви деяких команд трішки конфузять: man, finger, kill -9) В той час, як інші дуже логічні скорочення, що сприяє їх запам'ятовуванню.
@@ -73,33 +58,15 @@
 <details><summary>More info...</summary>
   
 ## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
-- [x] Тиждень 3:
-<details>
-  <summary>Week3</summary>
-  <img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-02%20185357.jpg">
-</details>
-
-- [x] Тиждень 4:
-<details>
-  <summary>Week4</summary>
-  <img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-02%20203317.jpg">
-</details>
+- [x] Тиждень 3:<details><summary>Week3</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-02%20185357.jpg"></details>
+- [x] Тиждень 4:<details><summary>Week4</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-02%20203317.jpg"></details>
   
-  ## [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
+## [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
   
-- [x] Основи: Їдемо далі, Переміщуємо роботу туди-сюди:
-<details>
-  <summary>Basics</summary>
-  <img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-01%20205831.jpg">
-</details>
-
-- [x] Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes:
-<details>
-  <summary>Git advanced</summary>
-  <img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-02%20205828.jpg">
-</details>
+- [x] Основи: Їдемо далі, Переміщуємо роботу туди-сюди:<details><summary>Basics</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-01%20205831.jpg"></details>
+- [x] Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes:<details><summary>Git advanced</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-02%20205828.jpg"></details>
   
-  ## Вивчити додаткові матеріали
+## Вивчити додаткові матеріали
 - [ ] [An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
 - [ ] [Oh shit, git!](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
 - [ ] [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
@@ -113,18 +80,9 @@
 # 3. Intro to HTML and CSS
 <details><summary>More info...</summary>
   
-  
-- [x] [HTML&CSS: Week1](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/1)
-<details>
-<summary></summary>
-  <img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20141753.jpg">
-  </details>
-  
+- [x] [HTML&CSS: Week1](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/1)<details><summary>Week 1</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20141753.jpg"></details>
 - [ ] [HTML&CSS: Week2](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/1)
-- [x] [HTML: Codecademy](https://www.codecademy.com/learn/learn-html)<details><summary>Screen</summary>
-  <img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20143419.jpg">
-</details>
-  
+- [x] [HTML: Codecademy](https://www.codecademy.com/learn/learn-html)<details><summary>HTML: Codecademy</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20143419.jpg"></details>
 - [ ] [CSS: Codecademy](https://www.codecademy.com/learn/learn-css)
   
   </details>
