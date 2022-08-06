@@ -105,13 +105,12 @@
     <li>Merge - declaration merges;</li>
     <li>Inheritance - принцип успадкування. Завдяки йому, всі елементи body отримують однакове значення, застосоване власне до body;</li>
     <li>Specificity - most specific selector combination wins.</li>
-  </ul>
+  </ul></details>
   Order: 
-##### style="..." 
-###### id
-####### class/pseudo-class/attibute
-######## number of elements
-  </details>
+### style="..." 
+#### id
+##### class/pseudo-class/attibute
+###### number of elements
   
 # 4. Responsive Web Design
 <details><summary>More info...</summary>
