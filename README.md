@@ -116,7 +116,7 @@
 <details>
 <summary></summary>
   <img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20141753.jpg">
-  
+  </details>
 - [ ] [HTML&CSS: Week2](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/1)
 - [x] [HTML: Codecademy](https://www.codecademy.com/learn/learn-html)
 <details>
