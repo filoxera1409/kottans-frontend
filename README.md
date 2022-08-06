@@ -1,6 +1,7 @@
 # kottans-frontend
 # 0. Git Basics
 <details>
+  
 ## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
 - [x] Тиждень 1:
 <details>
