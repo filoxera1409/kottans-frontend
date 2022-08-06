@@ -77,7 +77,7 @@
 
   </details>
   
-# 2.VCS (hello gitty), GitHub and Collaboration
+# 2. VCS (hello gitty), GitHub and Collaboration
 <details><summary>More info...</summary>
   
 ## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
@@ -118,7 +118,7 @@
 Чесно кажучи, сил на освоєння додаткових матеріалів взагалі не було(
 </details>
 
-## Intro to HTML and CSS
+# 3. Intro to HTML and CSS
 <details><summary>More info...</summary>
   
 - [x] [HTML&CSS: Week1](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/1)
@@ -136,7 +136,7 @@
   
   </details>
   
-  ## Responsive Web Design
+# 4. Responsive Web Design
 <details><summary>More info...</summary>
   
 - [ ] [Week1](https://)
