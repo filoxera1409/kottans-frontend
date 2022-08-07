@@ -123,7 +123,13 @@
 - [ ] [Flexbox Froggy](http://flexboxfroggy.com/#uk)<details><summary></summary><img src = ""></details>
 - [ ] [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
 - [ ] [Grid Garden](http://cssgridgarden.com/)<details><summary></summary><img src = ""></details>
-
+  
+ ## Додаткогві матеріали:
+    - [ ] [Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity?retiredLocale=uk)
+    - [ ] [Specificity calculator](https://specificity.keegan.st/)
+    - [ ] [11 things I learned reading the flexbox spec](https://medium.com/hackernoon/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
+    - [ ] [Flexbox Zombies (game)](https://flexboxzombies.com/p/flexbox-zombies)
+    - [ ] [HiDPI Screens and Web Development](https://tech.cars.com/hidpi-screens-and-web-development-72eb9b07ce7)
  ### SUMMARY:
 </details>
 
@@ -131,5 +137,8 @@
 <details><summary>More info...</summary>
   
 - [ ] [Week1](https://)<details><summary></summary><img src = ""></details>
+  
+ ## Додаткогві матеріали:
+  - [ ] []()
  ### SUMMARY:
   </details>
