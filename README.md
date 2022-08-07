@@ -118,10 +118,17 @@
 # 4. Responsive Web Design
 <details><summary>More info...</summary>
   
-- [ ] [Week1](https://)
-<details>
-<summary></summary>
-  <img src = "">
-  </details>
+- [ ] [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/)
+- [ ] [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
+- [ ] [Flexbox Froggy](http://flexboxfroggy.com/#uk)<details><summary></summary><img src = ""></details>
+- [ ] [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
+- [ ] [Grid Garden](http://cssgridgarden.com/)<details><summary></summary><img src = ""></details>
+
+ ### SUMMARY:
+
+5. HTML і CSS практика: Hooli-style Popup
+<details><summary>More info...</summary>
   
+- [ ] [Week1](https://)<details><summary></summary><img src = ""></details>
+ ### SUMMARY:
   </details>
