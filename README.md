@@ -125,6 +125,7 @@
 - [ ] [Grid Garden](http://cssgridgarden.com/)<details><summary></summary><img src = ""></details>
 
  ### SUMMARY:
+</details>
 
 # 5. HTML і CSS практика: Hooli-style Popup
 <details><summary>More info...</summary>
