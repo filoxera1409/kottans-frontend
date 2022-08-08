@@ -122,9 +122,9 @@
   
 - [x] [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/)
 - [ ] [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
-- [x] [Flexbox Froggy](http://flexboxfroggy.com/#uk)<details><summary></summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_responsive_web_design/Screenshot%202022-08-08%20174139.jpg"></details>
+- [x] [Flexbox Froggy](http://flexboxfroggy.com/#uk)<details><summary>Frogs</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_responsive_web_design/Screenshot%202022-08-08%20174139.jpg"></details>
 - [ ] [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
-- [ ] [Grid Garden](http://cssgridgarden.com/)<details><summary></summary><img src = ""></details>
+- [x] [Grid Garden](http://cssgridgarden.com/)<details><summary>Carrots</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_responsive_web_design/Screenshot%202022-08-08%20214010.jpg"></details>
   
 ## Додаткогві матеріали:
 - [ ] [Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity?retiredLocale=uk)
