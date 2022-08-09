@@ -18,7 +18,7 @@
 
 ## Надіслати pull-request
 Ось: https://github.com/kottans/mock-repo/pull/767
-## Вивчити додаткові матеріали
+## Додаткові матеріали:
 - [ ] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
 - [x] [Git за 30 хвилин](https://codeguida.com/post/453)
 - [x] [Git tips — закріпити свої знання про Git](https://www.webfx.com/blog/web-design/git-tips/)
@@ -45,7 +45,7 @@
 Був досвід використання Fiddler. Нарешті приблизно зрозуміла що це і для чого. Розуміння що таке HTTP раніше не було. Не скажу, що стаття дуже легка для сприйняття та розуміння, але розуміння точно з'явилось. Усміхнулась від того, що фіча протоколу HTTP 1.1 chunked transfer-coding - нагадує Half-life: замість того, щоб грузити всю карту, карта розділена на невеличкі шматочки, і коли гравець підходить до закінчення шматочка - підгружається інший)) це, звісно, трішки інше, бо там суть в розбивці на шматочки, без вказування пам'яті, які займає шматочок, а воно просто ділиться і підгружається доти, допоки останній шматочок не буде 0 розміру)
 ## [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 Було непросто. Сподобалась частина про детальне пояснення роботи HTTPS протоколу і кеш. Відчуваю потребу повернутись до цієї інфи через деякий час, бо щось є сумніви чи я все допетрала...
-## Additional
+## Додаткові матеріали:
 - [x] [How I taught myself to code in eight weeks](https://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189) - прочитала, але не скористалась порадами і курсами((
 - [ ] [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7) - tltr, трішки пізніше)
 - [ ] [Command Line Power User](https://commandlinepoweruser.com/) - пізніше
@@ -66,7 +66,7 @@
 - [x] Основи: Їдемо далі, Переміщуємо роботу туди-сюди:<details><summary>Basics</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-01%20205831.jpg"></details>
 - [x] Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes:<details><summary>Git advanced</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-02%20205828.jpg"></details>
   
-## Додаткогві матеріали:
+## Додаткові матеріали:
 - [ ] [An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
 - [ ] [Oh shit, git!](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
 - [ ] [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
@@ -85,7 +85,7 @@
 - [x] [HTML: Codecademy](https://www.codecademy.com/learn/learn-html)<details><summary>HTML: Codecademy</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20143419.jpg"></details>
 - [x] [CSS: Codecademy](https://www.codecademy.com/learn/learn-css)<details><summary>CSS: Codecademy</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_html_css_intro/Screenshot%202022-08-06%20210126.jpg"></details>
   
- ## Додаткогві матеріали:
+ ## Додаткові матеріали:
   - [ ] [YouTube HTML/CSS](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=5)
   - [ ] [freecodecamp.org](https://www.freecodecamp.org/learn/responsive-web-design/) - частково пройдений курс Legacy Responsive Web Design (2/7)
   - [ ] [GitHub course about HTML](https://lab.github.com/githubtraining/introduction-to-html)
@@ -126,10 +126,10 @@
 - [ ] [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
 - [x] [Grid Garden](http://cssgridgarden.com/)<details><summary>Carrots</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_responsive_web_design/Screenshot%202022-08-08%20214010.jpg"></details>
   
-## Додаткогві матеріали:
+## Додаткові матеріали:
 - [x] [Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity?retiredLocale=uk)
 - [x] [Specificity calculator](https://specificity.keegan.st/)
-- [ ] [11 things I learned reading the flexbox spec](https://medium.com/hackernoon/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
+- [x] [11 things I learned reading the flexbox spec](https://medium.com/hackernoon/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
 - [ ] [Flexbox Zombies (game)](https://flexboxzombies.com/p/flexbox-zombies)
 - [ ] [HiDPI Screens and Web Development](https://tech.cars.com/hidpi-screens-and-web-development-72eb9b07ce7)
 ### SUMMARY:
