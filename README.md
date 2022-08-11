@@ -133,7 +133,7 @@
 - [ ] [Flexbox Zombies (game)](https://flexboxzombies.com/p/flexbox-zombies)
 - [ ] [HiDPI Screens and Web Development](https://tech.cars.com/hidpi-screens-and-web-development-72eb9b07ce7)
 ### SUMMARY:
-Чомусь, звичною для мене практикою є проходити практичні заняття, а потім слухати теорію. Дуже сподобались ігри Flexbox Froggy i Grid Garden. З жабками все було дуже швидко і просто, а з морквиночками прийшлось трішки помучитись. Про grid були якісь уявлення ччерез незначну практику використання Bootstrap. Здивована "гнучкістю" grid задавати і вертикальне, і горизонтальне значення та ще й однією командою: grid-area: 1/1/3/3 (1-row start, 2-col start, 3-row end, 4-col end).
+Чомусь, звичною для мене практикою є проходити практичні заняття, а потім слухати теорію. Дуже сподобались ігри Flexbox Froggy i Grid Garden. З жабками все було дуже швидко і просто, а з морквиночками прийшлось трішки помучитись. Про grid були якісь уявлення через незначну практику використання Bootstrap. Здивована "гнучкістю" grid задавати і вертикальне, і горизонтальне значення та ще й однією командою: grid-area: 1/1/3/3 (1-row start, 2-col start, 3-row end, 4-col end).
 </details>
 
 # 5. HTML і CSS практика: Hooli-style Popup
