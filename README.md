@@ -140,10 +140,4 @@
 
 # 5. HTML і CSS практика: Hooli-style Popup
 <details><summary>More info...</summary>
-  
-- [ ] [Week1](https://)<details><summary></summary><img src = ""></details>
-  
-## Додаткогві матеріали:
-- [ ] []()
-### SUMMARY:
   </details>
