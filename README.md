@@ -121,9 +121,9 @@
 <details><summary>More info...</summary>
   
 - [x] [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/)
-- [ ] [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
+- [x] [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
 - [x] [Flexbox Froggy](http://flexboxfroggy.com/#uk)<details><summary>Frogs</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_responsive_web_design/Screenshot%202022-08-08%20174139.jpg"></details>
-- [ ] [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
+- [x] [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
 - [x] [Grid Garden](http://cssgridgarden.com/)<details><summary>Carrots</summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_responsive_web_design/Screenshot%202022-08-08%20214010.jpg"></details>
   
 ## Додаткові матеріали:
@@ -133,7 +133,9 @@
 - [ ] [Flexbox Zombies (game)](https://flexboxzombies.com/p/flexbox-zombies)
 - [ ] [HiDPI Screens and Web Development](https://tech.cars.com/hidpi-screens-and-web-development-72eb9b07ce7)
 ### SUMMARY:
-Чомусь, звичною для мене практикою є проходити практичні заняття, а потім слухати теорію. Дуже сподобались ігри Flexbox Froggy i Grid Garden. З жабками все було дуже швидко і просто, а з морквиночками прийшлось трішки помучитись. Про grid були якісь уявлення через незначну практику використання Bootstrap. Здивована "гнучкістю" grid задавати і вертикальне, і горизонтальне значення та ще й однією командою: grid-area: 1/1/3/3 (1-row start, 2-col start, 3-row end, 4-col end).
+Чомусь, звичною для мене практикою є проходити практичні заняття, а потім слухати теорію. Дуже сподобались ігри Flexbox Froggy i Grid Garden. З жабками все було дуже швидко і просто, а з морквиночками прийшлось трішки помучитись. Про grid були якісь уявлення через незначну практику використання Bootstrap. Здивована "гнучкістю" grid задавати і вертикальне, і горизонтальне значення та ще й однією командою: <strong> grid-area: 1/1/3/3 (1-row start, 2-col start, 3-row end, 4-col end)</strong>.<br/>
+Відеоуроки по верстці на флексах були дуже корисні. Зазвичай, користувалась для флексів вбудованим в Inspect налаштовувачем). То звісно гарно, але завдяки урокам вдалось зрозуміти як то все працює + дізналась про невідомі раніше ніштяки. Наприклад, про використання <strong> align-self, order, flex (flex-basis, flex-grow, flex-shrink) </strong> для позиціонування флекс-елементів.<br/>
+Відеоуроки по грідах виявились дуже корисними, оскільки з grid раніше не використовувала. Дуже вразили адаптивні можливості і здатність розташовувати елементи сітки як завгодно.
 </details>
 
 # 5. HTML і CSS практика: Hooli-style Popup
