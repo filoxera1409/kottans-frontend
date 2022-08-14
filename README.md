@@ -140,4 +140,7 @@
 
 # 5. HTML і CSS практика: Hooli-style Popup
 <details><summary>More info...</summary>
+
+[Demo](https://filoxera1409.github.io/hoolie-popup/) |
+[Code base](https://github.com/filoxera1409/hoolie-popup)
   </details>
