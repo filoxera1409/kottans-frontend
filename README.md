@@ -1,3 +1,4 @@
+
 # kottans-frontend
 # 0. Git Basics
 <details><summary>More info...</summary>
@@ -144,3 +145,26 @@
 [Demo](https://filoxera1409.github.io/hoolie-popup/) |
 [Code base](https://github.com/filoxera1409/hoolie-popup)
   </details>
+
+# 6. JavaScript Basics
+<details><summary>More info...</summary>
+
+- [ ] [Вступ до JS](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4)<details><summary></summary><img src = ""></details>
+- [ ] [FreeCodeCamp: Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)<details><summary></summary><img src = ""></details>
+- [ ] [FreeCodeCamp: ES6 Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/)<details><summary></summary><img src = ""></details>
+- [ ] [FreeCodeCamp: Basic Data Structures ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/)<details><summary></summary><img src = ""></details>
+- [ ] [FreeCodeCamp: Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)<details><summary></summary><img src = ""></details>
+- [ ] [FreeCodeCamp: Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/)<details><summary></summary><img src = ""></details>
+- [ ] [FreeCodeCamp: Algorithm Scripting Challenges ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)<details><summary></summary><img src = ""></details>
+  
+## Додаткові матеріали:
+- [ ] [FunFunFunction - Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+- [ ] [Algorithms Course by Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [ ] [Visualization of Common Algorithms and Data Structures](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [ ] [JavaScript Algorithms and Data Structures examples](https://github.com/trekhleb/javascript-algorithms)
+- [ ] [You Don't Know JS Yet: Get Started - 2nd Edition](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started)
+- [ ] [JavaScript Equality Table Game](https://eqeq.js.org/)
+- [ ] [JavaScript-Equality-Table](https://dorey.github.io/JavaScript-Equality-Table/)
+### SUMMARY:
+
+</details>
