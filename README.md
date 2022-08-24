@@ -150,7 +150,7 @@
 <details><summary>More info...</summary>
 
 - [ ] [Вступ до JS](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4)<details><summary></summary><img src = ""></details>
-- [ ] [FreeCodeCamp: Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)<details><summary></summary><img src = ""></details>
+- [x] [FreeCodeCamp: Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)<details><summary></summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_js_basics/Screenshot%202022-08-24%20192938.jpg"></details>
 - [ ] [FreeCodeCamp: ES6 Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/)<details><summary></summary><img src = ""></details>
 - [ ] [FreeCodeCamp: Basic Data Structures ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/)<details><summary></summary><img src = ""></details>
 - [ ] [FreeCodeCamp: Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)<details><summary></summary><img src = ""></details>
