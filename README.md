@@ -155,7 +155,7 @@
 - [ ] [FreeCodeCamp: Basic Data Structures ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/)<details><summary></summary><img src = ""></details>
 - [ ] [FreeCodeCamp: Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)<details><summary></summary><img src = ""></details>
 - [ ] [FreeCodeCamp: Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/)<details><summary></summary><img src = ""></details>
-- [ ] [FreeCodeCamp: Algorithm Scripting Challenges ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)<details><summary></summary><img src = ""></details>
+- [ ] [FreeCodeCamp: Algorithm Scripting Challenges: Розв’яжіть початкові 11 задач](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)<details><summary></summary><img src = ""></details>
   
 ## Додаткові матеріали:
 - [ ] [FunFunFunction - Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
