@@ -149,7 +149,7 @@
 # 6. JavaScript Basics
 <details><summary>More info...</summary>
 
-- [x] [Вступ до JS](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4)<details><summary></summary><img src = ""></details>
+- [x] [Вступ до JS](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4)<details><summary></summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_js_basics/Screenshot%202022-08-31%20191422.jpg"></details>
 - [x] [FreeCodeCamp: Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)<details><summary></summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_js_basics/Screenshot%202022-08-24%20192938.jpg"></details>
 - [x] [FreeCodeCamp: ES6 Challenges: Виконайте початкові 17 вправ (до Write Concise Declarative Functions with ES6)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/)<details><summary></summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_js_basics/Screenshot%202022-08-24%20223547.jpg"></details>
 - [x] [FreeCodeCamp: Basic Data Structures ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/)<details><summary></summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_js_basics/Screenshot%202022-08-31%20182136.jpg"></details>
