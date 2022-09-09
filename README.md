@@ -158,16 +158,16 @@
 - [x] [FreeCodeCamp: Basic Data Structures ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/)<details><summary></summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_js_basics/Screenshot%202022-08-31%20182136.jpg"></details>
 - [x] [FreeCodeCamp: Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)<details><summary></summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_js_basics/Screenshot%202022-09-06%20163346.jpg"></details>
 - [x] [FreeCodeCamp: Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/)<details><summary></summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_js_basics/Screenshot%202022-09-06%20183018.jpg"></details>
-- [ ] [FreeCodeCamp: Algorithm Scripting Challenges: Розв’яжіть початкові 11 задач](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)<details><summary></summary><img src = ""></details>
+- [x] [FreeCodeCamp: Algorithm Scripting Challenges: Розв’яжіть початкові 11 задач](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)<details><summary></summary><img src = "https://github.com/filoxera1409/kottans-frontend/tree/main/task_js_basics"></details>
   
 ## Додаткові матеріали:
 - [ ] [FunFunFunction - Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 - [ ] [Algorithms Course by Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [ ] [Visualization of Common Algorithms and Data Structures](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [ ] [JavaScript Algorithms and Data Structures examples](https://github.com/trekhleb/javascript-algorithms)
-- [ ] [You Don't Know JS Yet: Get Started - 2nd Edition](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started)
-- [ ] [JavaScript Equality Table Game](https://eqeq.js.org/)
-- [ ] [JavaScript-Equality-Table](https://dorey.github.io/JavaScript-Equality-Table/)
+- [x] [You Don't Know JS Yet: Get Started - 2nd Edition](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started)
+- [x] [JavaScript Equality Table Game](https://eqeq.js.org/)
+- [x] [JavaScript-Equality-Table](https://dorey.github.io/JavaScript-Equality-Table/)
 ### SUMMARY:
-
+Це було непросто. Пояснень на FreeCodeCamp було замало мені. Дуже сподобалось відео [https://www.youtube.com/watch?v=zJSY8tbf_ys]. Дуже гарно складає в голові структурні частини мови. Задачі давалось не просто: в основному розуміла логіку рішення, але не розуміла як написати. З часом - навики вирішувати задачки трішки покращились. В цьому допомогли ще й Codewars.Важко було не дизморалитись, коли з першого разу не шариш, що робиться. Порада собі майбутній: шукати джерела, до пояснюється зрозуміло - вони точно є)) 
 </details>
