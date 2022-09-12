@@ -171,3 +171,18 @@
 ### SUMMARY:
 Це було непросто. Пояснень на FreeCodeCamp було замало мені. Дуже сподобалось відео [https://www.youtube.com/watch?v=zJSY8tbf_ys]. Дуже гарно складає в голові структурні частини мови. Задачі давалось не просто: в основному розуміла логіку рішення, але не розуміла як написати. З часом - навики вирішувати задачки трішки покращились. В цьому допомогли ще й Codewars.Важко було не дизморалитись, коли з першого разу не шариш, що робиться. Порада собі майбутній: шукати джерела, до пояснюється зрозуміло - вони точно є)) 
 </details>
+
+# 7. JavaScript Basics
+<details><summary>More info...</summary>
+
+- [ ] [Document Object Model Manipulation](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/5)<details><summary></summary><img src = ""></details>
+- [ ] [Freecodecamp Algorithm Scripting Challenges: 12-18](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)<details><summary></summary><img src = ""></details>
+- [ ] [Практичне завдання: ]()<details><summary></summary><img src = ""></details>
+  
+## Додаткові матеріали:
+- [ ] [The Basics of DOM Manipulation in Vanilla JavaScript (No jQuery)](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/)
+- [ ] [JavaScript DOM Crash Course by Brad Traversy](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
+
+### SUMMARY:
+
+</details>
