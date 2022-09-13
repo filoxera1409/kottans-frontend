@@ -175,7 +175,7 @@
 # 7. DOM
 <details><summary>More info...</summary>
 
-- [ ] [Document Object Model Manipulation](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/5)<details><summary></summary><img src = ""></details>
+- [x] [Document Object Model Manipulation](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/5)<details><summary></summary><img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_js_dom/Screenshot%202022-09-13%20181426.jpg"></details>
 - [ ] [Freecodecamp Algorithm Scripting Challenges: 12-18](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)<details><summary></summary><img src = ""></details>
 - [ ] [Практичне завдання: ]()<details><summary></summary><img src = ""></details>
   
