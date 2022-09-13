@@ -172,7 +172,7 @@
 Це було непросто. Пояснень на FreeCodeCamp було замало мені. Дуже сподобалось відео [https://www.youtube.com/watch?v=zJSY8tbf_ys]. Дуже гарно складає в голові структурні частини мови. Задачі давалось не просто: в основному розуміла логіку рішення, але не розуміла як написати. З часом - навики вирішувати задачки трішки покращились. В цьому допомогли ще й Codewars.Важко було не дизморалитись, коли з першого разу не шариш, що робиться. Порада собі майбутній: шукати джерела, до пояснюється зрозуміло - вони точно є)) 
 </details>
 
-# 7. JavaScript Basics
+# 7. DOM
 <details><summary>More info...</summary>
 
 - [ ] [Document Object Model Manipulation](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/5)<details><summary></summary><img src = ""></details>
